@@ -58,3 +58,4 @@ buck-out/
 
 # Project related
 ios/ProjectHemera/GoogleService-Info.plist
+android/app/google-services.json
